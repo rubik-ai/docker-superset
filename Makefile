@@ -1,4 +1,4 @@
-REPO             := amancevice/superset
+REPO             := rubiklabs/superset
 STAGES           := build dist final
 NODE_VERSION     := 12
 PYTHON_VERSION   := 3.6
